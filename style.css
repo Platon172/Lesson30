@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.menu {
+  height: 116px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fafafa;
+}
+
+.name-menu {
+  font-family: "Homemade Apple";
+  font-weight: 400;
+  font-size: 18px;
+  color: #231f20;
+  margin-left: 80px;
+}
+
+.links-menu {
+  display: flex;
+  gap: 25px;
+}
+
+.link-menu {
+  font-family: "Gilroy";
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+
+.button-menu {
+  padding-top: 14px;
+  width: 150px;
+  height: 43px;
+  font-family: "Gilroy";
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #f7941e;
+  border: 1px solid #f7941e;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-right: 34px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-content {
+  width: 50%;
+  height: 700px;
+  background: #f1f1f2;
+}
+
+.img1 {
+  width: 50%;
+  height: 700px;
+  background-image: ;
+}
